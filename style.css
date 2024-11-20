@@ -20,6 +20,7 @@ header nav{
     justify-content: space-between;
     align-items: center;
     position: fixed;
+    /* El siguiente index es para que las img se vayan ocultando conforme van avanzando */
     z-index: 1;
 }
 
